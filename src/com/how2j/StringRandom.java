@@ -1,5 +1,7 @@
 package com.how2j;
 
+
+//创建一个长度是5的随机字符串，随机字符有可能是数字，大写字母或者小写字母
 public class StringRandom {
 
 	public static void main(String[] args) {
